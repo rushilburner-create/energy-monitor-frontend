@@ -1,0 +1,6 @@
+﻿{
+  "name": "energy-monitor-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Energy sector monitoring platform API"
+}
